@@ -44,7 +44,6 @@ PyGObject==3.42.1
 PyJWT==2.3.0
 PyNaCl==1.5.0
 pyparsing==2.4.7
-python-apt==2.4.0+ubuntu3
 python-dotenv==1.0.1
 pytz==2024.2
 PyYAML==5.4.1
